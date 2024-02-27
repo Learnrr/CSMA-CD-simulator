@@ -1,0 +1,22 @@
+﻿  csma.cpp
+C:\Users\fcg\source\repos\Project2\Project2\csma.cpp(11,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Exchange.cpp
+C:\Users\fcg\source\repos\Project2\Project2\Exchange.cpp(23,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fcg\source\repos\Project2\Project2\Exchange.cpp(94,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fcg\source\repos\Project2\Project2\Exchange.cpp(122,24): warning C4018: “<”: 有符号/无符号不匹配
+  frame.cpp
+C:\Users\fcg\source\repos\Project2\Project2\frame.cpp(101,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fcg\source\repos\Project2\Project2\frame.cpp(109,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fcg\source\repos\Project2\Project2\frame.cpp(162,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fcg\source\repos\Project2\Project2\frame.cpp(167,19): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\fcg\source\repos\Project2\Project2\frame.cpp(186,23): warning C4018: “<”: 有符号/无符号不匹配
+  main.cpp
+  PC.cpp
+C:\Users\fcg\source\repos\Project2\Project2\PC.cpp(41,40): error C3861: “to_string”: 找不到标识符
+C:\Users\fcg\source\repos\Project2\Project2\PC.cpp(42,40): error C3861: “to_string”: 找不到标识符
+C:\Users\fcg\source\repos\Project2\Project2\PC.cpp(87,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fcg\source\repos\Project2\Project2\PC.cpp(97,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fcg\source\repos\Project2\Project2\PC.cpp(258,41): error C3861: “to_string”: 找不到标识符
+C:\Users\fcg\source\repos\Project2\Project2\PC.cpp(378,38): error C3861: “to_string”: 找不到标识符
+C:\Users\fcg\source\repos\Project2\Project2\PC.cpp(398,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fcg\source\repos\Project2\Project2\PC.cpp(411,23): warning C4018: “<”: 有符号/无符号不匹配

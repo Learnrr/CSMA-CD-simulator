@@ -1,0 +1,5 @@
+﻿  Exchange.cpp
+C:\Users\fcg\source\repos\Project2\Project2\Exchange.cpp(23,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fcg\source\repos\Project2\Project2\Exchange.cpp(94,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\fcg\source\repos\Project2\Project2\Exchange.cpp(122,24): warning C4018: “<”: 有符号/无符号不匹配
+  Project2.vcxproj -> C:\Users\fcg\source\repos\Project2\Debug\Project2.exe
